@@ -16,6 +16,7 @@ int main()
     double a,b,c;
     a = b = c = 0;
     
+    // Definir variável de controle para loop do menu:
     char fim;
     
     do
